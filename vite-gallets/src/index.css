@@ -1,1 +1,34 @@
 
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  width: 100%;
+  height: 100vh;
+  padding-top: 10px;
+  background-color: burlywood;
+  padding: 8rem;
+ 
+}
+
+.galle-sue{
+
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+
+}
+
+
+
+
+
+
+
