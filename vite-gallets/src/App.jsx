@@ -1,5 +1,5 @@
 
-
+import GalletSuerte from './components/GalletSuerte'
 import './App.css'
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-     
+     <GalletSuerte />
     </>
   )
 }
