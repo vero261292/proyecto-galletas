@@ -6,15 +6,10 @@ const GalletSuerte = () => {
         <article className="galle-sue">
             <h1>GALLETAS DE LA FORTUNA </h1>
 
-            <div className="contenedor">
-                
-
-
-            </div>
-           
-            
-           
-             
+            <p>
+                <div className="contenedor">
+                </div>
+            </p>
             
         </article>
 
@@ -23,3 +18,5 @@ const GalletSuerte = () => {
 }
 
 export default GalletSuerte
+
+
