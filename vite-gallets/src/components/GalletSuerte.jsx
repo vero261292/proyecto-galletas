@@ -5,18 +5,22 @@ const GalletSuerte = (props) => {
 
     return (
         <article >
-            <h1>GALLETAS DE LA FORTUNA </h1>
-            <div className="pras">
-                <p>
+            <h1>*****GALLETAS DE LA SUERTE *****</h1>
+            <h2>
+                <div className="pras">
+                    <p>
                     {beta.phrase}
-                </p>
-            </div>
+                    </p>
+                </div>
+            </h2>
 
-            <div className="aut">
-                <p>
+            <h3>
+                <div className="aut">
+                    <p>
                     {beta.author}
-                </p>
-            </div>          
+                    </p>
+                </div>
+            </h3>          
         </article>
 
 

@@ -1,5 +1,4 @@
 
-
 *{
   margin: 0;
   padding: 0;
@@ -7,44 +6,52 @@
 }
 
 body{
-  background-repeat: no-repeat;
+  background: repeat;
+  background: no-repeat;
   background-size: cover;
   padding: 2rem;
- 
+
 }
 
+
 h1{
-background-color: white;
-text-align: center;
-padding: 2rem;
-border-radius: .5rem;
-max-width: 300px;
+  background: fixed;
+  color: white;
+  text-align: center;
+  padding: 2rem;
 
 }
 
 .pras{
-
+  background-color: beige;
+  text-align: center;
+  border-radius: .5rem;
+  max-width: 300px;
+  box-shadow: 2px 2px 8px;
+  margin: auto;
+  padding: 2rem;
 }
 
 .aut{
-  width: 10rem;
-  height: 3rem;
-  border-radius: .5%;
-
+  padding: 1.5rem;
+  background-color: beige;
+  text-align: center;
+  border-radius: .5rem;
+  max-width: 200px;
+  box-shadow: 2px 2px 6px;
+  margin: auto;
+  
 }
+
 
 button{
-  width: 8rem;
-  height: 2rem;
-  border-radius: 10%;
-  margin-bottom: auto;
+  background-color: beige;
+  text-align: center;
+  border-radius: .5rem;
+  max-width: 100px;
+  box-shadow: 2px 2px 4px;
+  padding: 1rem;
+  margin: auto;
+  padding: 1rem;
+
 }
-
-
-
-
-
-
-
-
-
